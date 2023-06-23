@@ -18,6 +18,6 @@ Go to the directory where you have downloaded this zip. In your terminal type ./
 8. unalias:
    eg unalias h
 9. history
-10. echo
+10. echo :
   eg echo hi
 11. exit
